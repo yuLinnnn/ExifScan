@@ -1,0 +1,15 @@
+{
+  "name": "Exif漏洞检测",
+  "version": "1.0",
+  "description": "在图片上右键点击，检测是否存在EXIF漏洞",
+  "icons": {
+    "16": "1.png",
+    "48": "2.png",
+    "128": "3.png"
+  },
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "manifest_version": 2
+}
