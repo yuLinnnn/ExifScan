@@ -2,7 +2,7 @@
 
 一款Chrome插件
 
-漏洞介绍 -> https://shahjerry33.medium.com/exif-data-exposure-9bdd6c2c4f2a
+漏洞+案例介绍 -> https://shahjerry33.medium.com/exif-data-exposure-9bdd6c2c4f2a
 
 对图片右键检测,存在和不存在都会弹窗
 
